@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
 .container {
     width: 1140px;
     margin: 0 auto;
@@ -40,7 +44,6 @@ h1 {
 .title {
     color: #F9BF3B;
     text-align: center;
-    font-family: Roboto;
     font-size: 41px;
     font-style: normal;
     font-weight: 900;
@@ -55,7 +58,6 @@ h2.title {
 .simple .title_big {
     color: #FFF;
     text-align: center;
-    font-family: Roboto;
     font-size: 80px;
     font-style: normal;
     font-weight: 900;
@@ -68,7 +70,6 @@ h2.title {
     margin-top: 23px;
     color: #FFF;
     text-align: center;
-    font-family: Roboto;
     font-size: 21px;
     font-style: normal;
     font-weight: 300;
@@ -77,7 +78,6 @@ h2.title {
 
 .promo .promo_text span {
     color: #F9BF3B;
-    font-family: Roboto;
     font-size: 21px;
     font-style: normal;
     font-weight: 700;
