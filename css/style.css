@@ -28,7 +28,6 @@ html {
 
     color: #FFF;
     text-align: center;
-    font-family: Roboto;
     font-size: 15px;
     font-style: normal;
     font-weight: 500;
@@ -97,7 +96,6 @@ h2.title {
     background: linear-gradient(0deg, #2798B9 0%, #3AB6DA 100%);
     text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.22);
     color: #FFF;
-    font-family: RobotoCondensed;
     font-size: 21px;
     font-style: normal;
     font-weight: 400;
@@ -113,7 +111,6 @@ h2.title {
 
 .more .more_text {
     color: #FFF;
-    font-family: "Roboto - Thin";
     font-style: 15px;
     font-weight: 400;
     text-transform: uppercase;
@@ -134,7 +131,6 @@ h2.title {
 
 .waiting .waiting_header, .finish .finish_header, .first_webinar .first_webinar_header {
     color:#252525;
-    font-family: Roboto;
     font-style: 30px;
     font-weight: 400;
     text-transform: uppercase;
@@ -156,7 +152,6 @@ h2.title {
 .waiting .waiting_subheader {
     margin-top: 17px;
     color: #4a4a4a;
-    font-family: Roboto;
     font-size: 23px;
     font-weight: 400;
     text-align: center;
@@ -180,7 +175,6 @@ h2.title {
 .waiting .waiting_wrapper .waiting_item .waiting_descr {
     margin-top: 33px;
     color: #4a4a4a;
-    font-family: Roboto;
     font-style: 15px;
     font-weight: 300;
     line-height: 21px;
@@ -195,7 +189,6 @@ h2.title {
 .optimization .optimization_header {
     margin-left: 391px;
     color:#299cbd;
-    font-family: "Roboto - Black";
     font-size: 29px;
     font-weight: 400;
     text-transform: uppercase;
@@ -208,11 +201,9 @@ h2.title {
     font-size: 17px;
     font-weight: 300;
     line-height: 27px;
-    font-family: "Roboto Light";
 }
 
 .optimization .optimization_text span {
-    font-family: "Roboto - Bold";
     font-weight: 700;
 }
 
@@ -254,7 +245,6 @@ h2.title {
     margin-top: 25px;
     text-align: center;
     color: #efefef;
-    font-family: Roboto;
     font-size: 17px;
     font-weight: 300;
     line-height: 20px;
@@ -284,7 +274,6 @@ h2.title {
     margin-top: 40px;
     text-align: center;
     color: black;
-    font-family: Roboto;
     font-size: 25px;
     font-weight: 600;
     line-height: 45px;
@@ -304,7 +293,6 @@ h2.title {
     background: linear-gradient(0deg, #2798B9 0%, #3AB6DA 100%);
     text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.22);
     color: #FFF;
-    font-family: RobotoCondensed;
     font-size: 21px;
     font-style: normal;
     font-weight: 400;
@@ -333,7 +321,6 @@ h2.title {
     .first_webinar .first_webinar_date {
         margin-top: 30px;
         color:#299cbd;
-        font-family: "Roboto - Black";
         font-size: 29px;
         font-weight: 400;
         text-transform: uppercase;
